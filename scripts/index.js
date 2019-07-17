@@ -7,7 +7,3 @@ function main() {
 }
 
 $(main);
-
-// eslint-disable-next-line no-undef
-console.log(store);
-console.log(foo);
